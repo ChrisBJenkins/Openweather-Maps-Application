@@ -1,0 +1,25 @@
+1. search box , try catch 
+if (response of url goes through with the city name)
+	then it worked
+else
+	do nothing
+
+search bar for "city name" 
+button (weather map / geolocation)
+
+2. Pull icons for PictureBoxes
+- if before night time , show sun
+- if after night time , show moon
+(if icon[0] data from openweatherapi matches to a gif, replace with gif)
+
+3. Epoch Convert for date_time milliseconds
+(sunrise, sunset)
+
+4. Add Current Day to City below (lon, lat)
+
+------------------------------
+Get Lon, Lat  /  Then Display a Map with whatever map api
+Get Sunset Time, Sunrise Time
+Display Full Day format under Lon,Lat
+Update the Pictures to City , State ,           Details / Add graph for details
+Finish the Search Bar / Button

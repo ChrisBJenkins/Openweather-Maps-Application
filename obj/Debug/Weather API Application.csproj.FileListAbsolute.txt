@@ -1,0 +1,13 @@
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\obj\Debug\Weather API Application.csprojAssemblyReference.cache
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\bin\Debug\Weather API Application.exe.config
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\bin\Debug\Weather API Application.exe
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\bin\Debug\Weather API Application.pdb
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\obj\Debug\Weather_API_Application.Form1.resources
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\obj\Debug\Weather_API_Application.Properties.Resources.resources
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\obj\Debug\Weather API Application.csproj.GenerateResource.cache
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\obj\Debug\Weather API Application.csproj.CoreCompileInputs.cache
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\obj\Debug\Weather API Application.csproj.CopyComplete
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\obj\Debug\Weather API Application.exe
+C:\Users\cblak\OneDrive\Desktop\repos\Weather API Application\obj\Debug\Weather API Application.pdb
